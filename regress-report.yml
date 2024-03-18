@@ -19,7 +19,7 @@ test-cases:
     
 bugreports:
   - summary: |
-    Ошибка при попытке покупки товара
+      Ошибка при попытке покупки товара
     environment: |
       Google Chrome 122.0.6261.129 (Официальная сборка), (64 бит)
       OC Windows 11
