@@ -5,10 +5,10 @@ test-cases:
     status: pass
 
   - summary: |
-     Фильтрация товаров
+      Фильтрация товаров
     status: pass
 
-test-cases:
+
   - summary: |
       Проверка возможности просматривать доп. информацию товаре.
     status: pass
