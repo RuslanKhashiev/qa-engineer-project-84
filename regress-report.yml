@@ -8,7 +8,7 @@ test-cases:
      Фильтрация товаров
     status: pass
 
-
+test-cases:
   - summary: |
       Проверка возможности просматривать доп. информацию товаре.
     status: pass
