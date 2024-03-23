@@ -16,19 +16,7 @@ test-cases:
       Проверка возможности добавления товара в корзину
     status: pass
 
-bugreports:
-  - summary: |
-      Ошибка при попытке покупки товара
-    environment: |
-      Google Chrome 122.0.6261.129 (Официальная сборка), (64 бит)
-      OC Windows 11
-    steps-to-reproduce: |
-      Выбираем любой товар из списка
-      Заходим в корзину и оформляем заказ
-    expected-result: |
-      Наши данные успешно отправляются на сервер
-    actual-result: |
-      Данные никуда не отправились. В devtools ошибка.
+  bugreports: []
 
 
 
