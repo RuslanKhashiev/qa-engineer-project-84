@@ -1,4 +1,5 @@
 ---
+test-cases:
 - summary: |
     Фильтрация товаров с помощью бренда и категории
   status: pass
@@ -15,7 +16,8 @@
     Удаление товара из корзины
   status: pass
 - summary: |
-    Очитска корзины
+    Очистка корзины
   status: pass
-  bugreports: []
+  
 
+bugreports: []
