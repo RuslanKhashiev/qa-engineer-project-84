@@ -18,6 +18,10 @@ test-cases:
 - summary: |
     Очистка корзины
   status: pass
+- summary: |
+    Переход на следующую старницу
+  status: pass
+
   
 
 bugreports: []
